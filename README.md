@@ -35,7 +35,7 @@ Stubs are a type of test double that replace a function and return controlled ou
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/willy-oliv/javascript-expert--stubs.git
+   git clone https://github.com/willyoliv/javascript-expert--stubs.git
    cd javascript-expert--stubs
    ```
 
